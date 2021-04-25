@@ -1,0 +1,2 @@
+export const PULL_TRIPLIST = "PULL_TRIPLIST";
+
