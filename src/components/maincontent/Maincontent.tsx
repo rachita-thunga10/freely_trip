@@ -140,7 +140,7 @@ class Maincontent extends Component<any, any> {
         </div>
         <Box display="flex" flexDirection="row">
           <span className = {classes.BoxSpanstyles}> 
-            <b>Welcome to Freely Trip</b>
+            <b>Welcome to Racoon Gify Trip</b>
           </span>
         </Box>
         <Box display="flex" flexDirection="row">
@@ -157,7 +157,7 @@ class Maincontent extends Component<any, any> {
             variant="contained"
             onClick={this.loadtrips.bind(this)}
           >
-            Load Trips
+            Load Gifs
           </Button>
         </Box>
         <Box display="flex" flexDirection="row">

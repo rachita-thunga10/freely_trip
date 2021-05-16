@@ -5,7 +5,9 @@
     "startDate": "2021-06-01",
     "endDate": "2021-06-29",
     "destinations": ["Bali", "Malaysia"],
-    "status": "NOT_STARTED"
+    "status": "NOT_STARTED",
+     "link": "https://giphy.com/embed/X1fikdyut2uv6"
+     
   },
   {
     "id": "2",
@@ -13,7 +15,8 @@
     "startDate": "2021-04-01",
     "endDate": "2021-04-29",
     "destinations": ["New Zealand"],
-    "status": "STARTED"
+    "status": "STARTED",
+    "link": "https://giphy.com/embed/x5InDvL65D2CI"
   },
   {
     "id": "3",
@@ -21,7 +24,17 @@
     "startDate": "2021-01-01",
     "endDate": "2021-01-29",
     "destinations": ["Japan"],
-    "status": "FINISHED"
+    "status": "FINISHED",
+    "link": "https://giphy.com/embed/kSud59PILe9ri"
+  },
+  {
+    "id": "4",
+    "name": "Trip 4",
+    "startDate": "2021-01-01",
+    "endDate": "2021-01-29",
+    "destinations": ["Japan"],
+    "status": "FINISHED",
+    "link":"https://giphy.com/embed/z0ioCfDnxx3TW"
   }
 ]
 
