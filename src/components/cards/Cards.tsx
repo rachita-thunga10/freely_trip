@@ -50,7 +50,7 @@ class Cards extends Component<any, any> {
               
             >
               <CardContent>
-             {/*   <Typography>
+                <Typography>
                   <Namecss>
                     <b>Trip Id:</b>{item.id} 
                   </Namecss>
@@ -88,7 +88,7 @@ class Cards extends Component<any, any> {
                     </Destinationcss>
                   </Typography>
                 ))}
-                </span>*/}
+                </span>
               <Typography >
                   <Datecss>
                   <iframe src={item.link} width="480" height="480" frameBorder="0" allowFullScreen></iframe> 
